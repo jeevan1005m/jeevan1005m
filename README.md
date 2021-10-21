@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences (Cover Letter) [https://drive.google.com/file/d/11dqotmAu60teogbQ2TmYxufZ_eFZnjD3/view?usp=drivesdk](https://drive.google.com/file/d/11dqotmAu60teogbQ2TmYxufZ_eFZnjD3/view?usp=drivesdk)
 
-- ⚡ Fun fact **My Code is always Bug Free.**
+- ⚡ Fun fact **My Code is Bug Free.**
 
 
 <h3 align="left">Languages and Tools:</h3>
