@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**
 
-- 👯 My Final Year Project **(C++) Obstacle Avoidance Vehicle**
+- 👯 My Final Year Project **(C++) Obstacle Avoidance Robotic Vehicle**
 
 - 🤝 I’m looking for help with **Full Stack Development**
 
