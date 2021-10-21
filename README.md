@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeevan M</h1>
+<h1 align="center">Hi 👋, I'm Jeevan </h1>
 <h3 align="center">I am a recent college graduate with relevant skills in Software Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan1005m&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan1005m" /> </p>
